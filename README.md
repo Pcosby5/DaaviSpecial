@@ -14,7 +14,7 @@
 
 
 ## AUTHORS
-#### * Prince Ofosu - @Pcosby5
+#### * Prince Ofosu - [@Pcosby5](https://github.com/Pcosby5)
 #### * Ifeoluwa Adebayo - 
-#### * Bernard Nketia Acheampong - @BnkeTia
-#### * Daniel Asare Ntow - @DanielNtow
+#### * Bernard Nketia Acheampong - [@BnkeTia](https://github.com/BnkeTia)
+#### * Daniel Asare Ntow - [@DanielNtow](https://github.com/danielntow)
