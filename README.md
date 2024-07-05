@@ -12,3 +12,9 @@
 #### * Deployment: `Heroku` or `Netlify` for deployment or `Vercel`
 #### * Design Tools: Figma or Adobe XD for UI/UX design
 
+
+## AUTHORS
+#### * Prince Ofosu - @Pcosby5
+#### * Ifeoluwa Adebayo - 
+#### * Bernard Nketia Acheampong - @BnkeTia
+#### * Daniel Asare Ntow - @DanielNtow
